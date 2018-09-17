@@ -8,6 +8,7 @@
 
 * 每天背50个单词
 
+![](images/memory.png)
 
 ## 目标
 
